@@ -2,7 +2,7 @@
 
 All of these assignments are improvements on each other for the Key Word Out of Context problem. Each program is given the input of a text file to parse through and an optional exception file that contains words that are not considered a unique word.  The format for output of the program is:
 
-<em>"Unique Word" "Line the Word Came From" ("Number of the line")<em>
+<em>"Unique Word" "Line the Word Came From" ("Number of the line")</em>
 
 <h3>The Grades Recieved for the Assignments:</h3>
 
